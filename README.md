@@ -115,5 +115,6 @@ It showcases the ability to convert raw sales data into clear, actionable busine
 ![Overview Dashboard](https://github.com/Ashitpatel1/powerbi-car-sales-analysis/blob/main/overview_dashboard.png.png)
 
 ### Details Dashboard
-![Details Dashboard](screenshots/details_dashboard.png)
+![Details Dashboard](https://github.com/Ashitpatel1/powerbi-car-sales-analysis/blob/main/details_dashboard.png.png)
+
 
