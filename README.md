@@ -105,3 +105,15 @@ Monitor pricing trends to maintain profitability and competitiveness.
 
 This project demonstrates strong proficiency in Power BI, DAX, data visualization, and business analytics.
 It showcases the ability to convert raw sales data into clear, actionable business insights, making it a portfolio-ready project suitable for Data Analyst / Business Analyst roles
+
+
+---
+
+## 📷 Dashboard Screenshots
+
+### Overview Dashboard
+![Overview Dashboard](screenshots/overview_dashboard.png)
+
+### Details Dashboard
+![Details Dashboard](screenshots/details_dashboard.png)
+
